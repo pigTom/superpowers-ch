@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Volumes/Dev/superpowers-ch/.claude/hooks/count_tools.sh"
+          }
+        ]
+      }
+    ]
+  }
+}

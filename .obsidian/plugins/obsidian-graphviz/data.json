@@ -1,0 +1,5 @@
+{
+  "dotPath": "/opt/homebrew/bin/dot",
+  "renderer": "dot",
+  "imageFormat": "svg"
+}
