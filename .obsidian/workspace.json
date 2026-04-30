@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skills/verification-before-completion/SKILL.md",
+                "file": "skills/using-superpowers/SKILL.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,7 +36,8 @@
               "title": "SKILL"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "40f61281cd3d61b0",
@@ -220,35 +221,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8788b8ff2480aa2d",
+  "active": "46b5a47e03b2c5ad",
   "lastOpenFiles": [
-    "skills/finishing-a-development-branch/SKILL.md",
+    "skills/systematic-debugging/SKILL.md",
+    "skills/test-driven-development/SKILL.md",
+    "skills/using-git-worktrees/SKILL.md",
+    "skills/using-superpowers/SKILL.md",
     "skills/verification-before-completion/SKILL.md",
+    "skills/writing-plans/plan-document-reviewer-prompt.md",
+    "skills/writing-plans/SKILL.md",
+    "skills/writing-skills/persuasion-principles.md",
+    "skills/writing-skills/anthropic-best-practices.md",
     "skills/dispatching-parallel-agents/SKILL.md",
+    "skills/finishing-a-development-branch/SKILL.md",
     "agents/code-reviewer.md",
     "agents/markdown-translator.md",
-    "skills/test-driven-development/SKILL.md",
     "Excalidraw/Drawing 2026-04-29 23.27.12.excalidraw.md",
     "Excalidraw",
     "skills/requesting-code-review/SKILL.md",
     "skills/requesting-code-review/code-reviewer.md",
     "skills/receiving-code-review/SKILL.md",
-    "skills/using-git-worktrees/SKILL.md",
-    "skills/writing-plans/SKILL.md",
-    "skills/writing-plans/plan-document-reviewer-prompt.md",
     "skills/subagent-driven-development/SKILL.md",
     "skills/subagent-driven-development/implementer-prompt.md",
     "skills/brainstorming/SKILL.md",
     "skills/subagent-driven-development/code-quality-reviewer-prompt.md",
-    "skills/using-superpowers/SKILL.md",
     "skills/using-superpowers/references/codex-tools.md",
     "skills/executing-plans/SKILL.md",
     "translate-markdown-workspace/iteration-4/eval-1_readme/translated.md",
     "translate-markdown-workspace/iteration-5/results.md",
     "translate-markdown-workspace/iteration-5/eval-1_readme/translated.md",
-    "skills/subagent-driven-development/spec-reviewer-prompt.md",
-    "skills/brainstorming/spec-document-reviewer-prompt.md",
-    "skills/brainstorming/visual-companion.md",
     "claude-plugins-official/frontend-design/skills/frontend-design",
     "claude-plugins-official/frontend-design/skills",
     "claude-plugins-official/frontend-design",
